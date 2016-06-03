@@ -62,7 +62,8 @@
                     android:layout_gravity="center_horizontal"
                     android:clickable="true"
                     android:singleLine="false"
-                    android:layout_centerHorizontal="true" />
+                    android:layout_centerHorizontal="true"
+                    android:onClick="onPicture" />
             </RelativeLayout>
 
             <RelativeLayout

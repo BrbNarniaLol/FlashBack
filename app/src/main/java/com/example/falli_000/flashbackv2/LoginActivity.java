@@ -121,6 +121,7 @@ public class LoginActivity extends Activity {
                             .show();
                 }
                 break;
+
             default:
                 super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         }
